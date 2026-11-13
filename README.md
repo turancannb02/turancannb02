@@ -1,8 +1,11 @@
 ## Hi there, I'm Turan 👋
 
+AI-Assisted Software Engineer at **Schwarz Digits** (Article Intelligence & Finance), Berlin. MSc Data Analytics (BSBI, 2026) with a thesis at **Fraunhofer FOKUS** on cooperating AI agents for 5G testbeds. Co-author of *Agentic AI Enabled Core Network Architecture for Next Generation Mobile Communication System* (IEEE CSCN 2026).
+
 ### 🔭 What I'm working on
-- Evaluating spec-driven agentic development (Spec Kit vs. OpenSpec): where coding agents help and where humans need to stay in the loop
-- Benchmarking AI coding agent configurations on reliability rate, tokens per success and turns to resolution
+- Leading my team's evaluation of spec-driven development with AI coding agents (OpenCode, Spec Kit, OpenSpec) in a network-isolated sandbox: where agents help and where humans need to stay in the loop
+- Measuring AI involvement per subtask, blind LLM-judged diff reviews, and a 50-run agent skill benchmark
+- Recommendation (FP-Growth on PySpark) and embedding-based product matching pipelines on Databricks
 - Fine-tuning small local models with LoRA (mlx-lm) for a personal assistant
 - Side builds: an iOS memory app and an ESP32 e-paper home dashboard
 
@@ -14,6 +17,7 @@
 ### 💬 Ask me about
 - Measuring whether AI coding agents actually help, beyond vibes
 - Multi-agent LLM systems (built one for real-time network optimization during my MSc thesis)
+- RAG with honest evaluation ([TechRAG](https://huggingface.co/spaces/turancannb02/techrag) for 3GPP standards, [UniAdmin-AI](https://github.com/turancannb02/unirag-ai) for compliance-aware university services)
 - Designing reproducible ML experiments
 - Turning research prototypes into working tools
 - Running local LLMs (Ollama, MLX) for practical tasks
@@ -26,8 +30,10 @@ Built my first LLM agent on a 5G testbed. Still not sure which part was harder.
 
 ## 🌐 Socials
 
+[![Website](https://img.shields.io/badge/website-turancannb02.github.io-e05a2b)](https://turancannb02.github.io)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/turancannb02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/turanbuyukkamaci)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/turancannb02)
 
 ---
 
@@ -48,6 +54,11 @@ Built my first LLM agent on a 5G testbed. Still not sure which part was harder.
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
