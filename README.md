@@ -1,11 +1,10 @@
 ## Hi there, I'm Turan 👋
 
-AI-Assisted Software Engineer at **Schwarz Digits** (Article Intelligence & Finance), Berlin. MSc Data Analytics (BSBI, 2026) with a thesis at **Fraunhofer FOKUS** on cooperating AI agents for 5G testbeds. Co-author of *Agentic AI Enabled Core Network Architecture for Next Generation Mobile Communication System* (IEEE CSCN 2026).
+MSc Data Analytics (BSBI, 2026) with a thesis at **Fraunhofer FOKUS** on cooperating AI agents for 5G testbeds. Co-author of *Agentic AI Enabled Core Network Architecture for Next Generation Mobile Communication System* (IEEE CSCN 2026).
 
 ### 🔭 What I'm working on
-- Leading my team's evaluation of spec-driven development with AI coding agents (OpenCode, Spec Kit, OpenSpec) in a network-isolated sandbox: where agents help and where humans need to stay in the loop
-- Measuring AI involvement per subtask, blind LLM-judged diff reviews, and a 50-run agent skill benchmark
-- Recommendation (FP-Growth on PySpark) and embedding-based product matching pipelines on Databricks
+- Evaluating spec-driven agentic development (Spec Kit vs. OpenSpec): where coding agents help and where humans need to stay in the loop
+- Benchmarking AI coding agent configurations on reliability rate, tokens per success and turns to resolution
 - Fine-tuning small local models with LoRA (mlx-lm) for a personal assistant
 - Side builds: an iOS memory app and an ESP32 e-paper home dashboard
 
